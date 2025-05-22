@@ -103,6 +103,15 @@ COVID19_Forecasting_India/
 
 ---
 
+### 🖼️ COVID-19 Interactive Dashboard using Power BI
+
+![COVID-19 Dashboard – Time Series, Heat Maps, Trends](https://github.com/Abhrajit23/Predicting-COVID-19-Cases-in-India-Using-ARIMA-Prophet-LSTM-and-Data-Analysis-Using-Power-BI/raw/main/Figure%202.%20COVID-19%20Interactive%20Dashboard%20on%20Power%20BI%20showcasing%20Time%20Series%20Analysis%2C%20Geographical%20Heat%20Maps%2C%20Comparative%20Analysis%2C%20and%20Trend%20Analysis..png)
+
+### 🔮 Forecasting Future COVID-19 Cases
+
+![COVID-19 Forecasting Dashboard – Confirmed, Deceased, Recovered](https://github.com/Abhrajit23/Predicting-COVID-19-Cases-in-India-Using-ARIMA-Prophet-LSTM-and-Data-Analysis-Using-Power-BI/raw/main/Figure%203.%20Dashboard%20for%20Future%20Predictions%20of%20COVID-19%20Cases%20in%20India%20Confirmed%2C%20Deceased%2C%20and%20Recovered.png)
+
+
 ## 📚 Citation
 
 If you use this work, please cite the following paper:
